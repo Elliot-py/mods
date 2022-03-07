@@ -1,0 +1,11 @@
+Vanilla Tweaks Resource Pack
+Version: 1.17
+Packs:
+	ShorterGrass
+	ShorterTallGrass
+	LowerShield
+	LowerFire
+	AlternateEnchantGlint
+	ItemStitchingFix
+	RedstoneWireFix
+	EffectBoxFix
